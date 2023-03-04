@@ -9,6 +9,8 @@ public class GitRepository {
 		System.out.println(a);
 		
 		
+		String b = "test and it is a very bad day today ";
+		System.out.println(b);
 		
 		
 		
