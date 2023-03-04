@@ -14,6 +14,21 @@ public class GitRepository {
 		
 		
 		
+		String e = "test and it is a very bad day today ";
+		System.out.println(b);
+		
+		String r = "test and it is a very bad day today ";
+		System.out.println(b);
+		
+		String t = "test and it is a very bad day today ";
+		System.out.println(b);
+		
+		String g = "test and it is a very bad day today ";
+		System.out.println(b);
+		
+		String s = "test and it is a very bad day today ";
+		System.out.println(b);
+		
 		
 		
 		
